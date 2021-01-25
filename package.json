@@ -1,0 +1,20 @@
+{
+  "name": "estiemic",
+  "version": "1.0.0",
+  "description": "Telegram bot for ESTIEM",
+  "main": "app.js",
+  "scripts": {
+    "test": "run",
+    "start": "nodemon app.js"
+  },
+  "author": "Iosif Isachko",
+  "license": "ISC",
+  "dependencies": {
+    "as-table": "^1.0.55",
+    "node-telegram-bot-api": "^0.50.0",
+    "telegraph-node": "^1.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
